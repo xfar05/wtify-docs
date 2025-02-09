@@ -43,7 +43,7 @@ Ingin mengatur konfigurasi bot **Wtify**? Ikuti langkah-langkah berikut untuk me
 
    Seperti di gambar berikut :
 
-   ![Konfigurasi Fitur Nitro Bot WTIFY](https://i.ibb.co.com/FLHZffD7/Screenshot-2025-02-09-213115.png)
+   ![Konfigurasi Fitur Nitro Bot WTIFY](https://i.ibb.co.com/jvSF8jcm/Screenshot-2025-02-09-213115.png)
 
 5. **Simpan Konfigurasi**
 
