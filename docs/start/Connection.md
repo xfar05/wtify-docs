@@ -60,7 +60,7 @@ Berikut adalah fitur-fitur untuk mengontrol bot WhatsApp:
    - Pilih "Perangkat Tertaut"
    - Klik "Tautkan Perangkat"
 
-   ![Button For Terminal Bot WTIFY](https://i.ibb.co.com/JwnyzgyG/20250210-075427.png)
+     <img src="https://i.ibb.co/JwnyzgyG/20250210-075427.png" width="300" height="500" />
 
 3. **Verifikasi Biometrik**
 
@@ -86,7 +86,6 @@ Berikut adalah fitur-fitur untuk mengontrol bot WhatsApp:
 - Pastikan koneksi internet stabil saat melakukan proses tautkan
 - Jangan pernah memberikan kode dari terminal kepada siapapun
 - Tunggu konfirmasi "Bot connected successfully" sebelum meninggalkan halaman
-- Selalu STOP bot terlebih dahulu sebelum menutup browser
 - Kode yang muncul di terminal hanya berlaku untuk satu kali penggunaan
 - Jika kode expired, tekan tombol START untuk mendapatkan kode baru
 
